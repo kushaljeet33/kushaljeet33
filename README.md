@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi there! 👋<br>🔭 I’m currently working on Front-End Development, creating interactive and user-friendly web applications.<br>💻 Languages I work with:<br><br>C<br>Java<br>Python<br>JavaScript<br>🚀 Passionate about building responsive and dynamic user interfaces.<br>📫 Reach me at: kushaljeet396@gmail.com
+Hi there! 👋<br>🔭 I’m currently working on Front-End Development, creating interactive and user-friendly web applications.
+<br>💻 Languages I work with:<br><br>C<br>Java<br>Python<br>JavaScript<br>🚀 Passionate about building responsive and dynamic user interfaces.<br>📫 Reach me at: kushaljeet396@gmail.com
 
 
 ## 🌐 Socials:
